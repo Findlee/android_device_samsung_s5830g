@@ -1,0 +1,6 @@
+/system 	yaffs2 		/dev/block/mtdblock4
+/data 		yaffs2 		/dev/block/mtdblock5
+/cache 		yaffs2 		/dev/block/mtdblock6
+/boot 		mtd 		boot
+/recovery 	mtd 		recovery
+/sdcard 	vfat 		/dev/block/mmcblk0p1
